@@ -1,0 +1,9 @@
+.page-main {
+  width: 100vw;
+  height: 100vw;
+}
+
+.page-content {
+  margin: 1rem;
+  margin-top: 70px;
+}
